@@ -1,6 +1,10 @@
-# Farsight in Vanilla JavaScropt
+# Farsight in Vanilla JavaScript
 
 A smooth 3D parallax library forked from [Farsight](https://github.com/OhDeerGames/Farsight-Example) by [OhDeerGames](http://ohdeergames.com/) (jQuery version).
+
+## Demo
+
+See the demo from [CodePen here](https://codepen.io/iamryanyu/pen/JLBBJb/).
 
 ## ✌️ How to use
 
