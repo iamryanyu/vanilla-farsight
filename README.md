@@ -74,6 +74,7 @@ Update the styles (`css/index.css`) as necessary.
 
 ## 👊 Todo
 - Make it as a npm package.
+- Handle the scroll event in touch devices.
 
 ## 👍  Download, Fork, Commit
 
